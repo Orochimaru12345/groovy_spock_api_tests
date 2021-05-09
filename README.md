@@ -13,3 +13,6 @@
 |minT| Minimum valid temperature. 
 |maxT| Maximum valid temperature.
 |debug| If `false` send real API request. If `true` use made up data.
+
+### Run
+![](images/RUN.PNG)
