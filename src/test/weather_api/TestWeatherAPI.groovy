@@ -79,7 +79,7 @@ class TestWeatherAPI extends Specification {
     }
 
     @SuppressWarnings('GroovyAssignabilityCheck')
-    def 'check that temperature at Saint Petersburg is valid (by rectangular location)'() {
+    def 'test: check that temperature at Saint Petersburg is valid (by rectangular location)'() {
         expect:
         // response must be JSON object
         weather instanceof Map
