@@ -1,0 +1,6 @@
+{
+  "apiKey": "YOUR_API_KEY",
+  "minT": "-100",
+  "maxT": "-10",
+  "debug": false
+}

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spock-core-2.0-M5-groovy-3.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/required_jars/spock-core-2.0-M5-groovy-3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
